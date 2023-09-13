@@ -1,1 +1,1 @@
-# hugging-face-pipeline-deployment-via-flask-and-fast-APIs
+# HuggingFace pipeline deployment
