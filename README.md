@@ -1,4 +1,4 @@
-# HuggingFace pipelines deployment
+# HuggingFace NLP pipelines deployment
 
 ## Sentiment-Analysis Pipeline Deployment
 - model = distilbert-base-uncased-finetuned-sst-2-english
